@@ -1,0 +1,3 @@
+﻿  GreeadyEatingStrategy.cpp
+c:\users\balagnese\desktop\gardenwarconsoleapp 2\gardenwarconsoleapp\game.h(23): warning C4091: static : пропускается слева от "Game", когда ни одна переменная не объявлена
+  GardenWarConsoleApp.vcxproj -> C:\Users\balagnese\Desktop\GardenWarConsoleApp 2\Debug\GardenWarConsoleApp.exe
